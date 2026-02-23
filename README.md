@@ -56,3 +56,4 @@ Cursor position is persisted to the `ingestion_state` table every 5,000 events. 
 ## Tools used
 
 Claude (Anthropic) was used to help write and debug parts of this solution.
+VS Code was used as a compiler and code editor
